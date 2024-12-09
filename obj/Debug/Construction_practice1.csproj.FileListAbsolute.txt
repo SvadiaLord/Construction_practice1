@@ -1,0 +1,7 @@
+C:\Users\Пользователь\source\repos\Construction_practice1\bin\Debug\Construction_practice1.exe.config
+C:\Users\Пользователь\source\repos\Construction_practice1\bin\Debug\Construction_practice1.exe
+C:\Users\Пользователь\source\repos\Construction_practice1\bin\Debug\Construction_practice1.pdb
+C:\Users\Пользователь\source\repos\Construction_practice1\obj\Debug\Construction_practice1.csproj.AssemblyReference.cache
+C:\Users\Пользователь\source\repos\Construction_practice1\obj\Debug\Construction_practice1.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\Construction_practice1\obj\Debug\Construction_practice1.exe
+C:\Users\Пользователь\source\repos\Construction_practice1\obj\Debug\Construction_practice1.pdb
