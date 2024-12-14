@@ -5,3 +5,11 @@ C:\Users\Пользователь\source\repos\Construction_practice1\obj\Debug\
 C:\Users\Пользователь\source\repos\Construction_practice1\obj\Debug\Construction_practice1.csproj.CoreCompileInputs.cache
 C:\Users\Пользователь\source\repos\Construction_practice1\obj\Debug\Construction_practice1.exe
 C:\Users\Пользователь\source\repos\Construction_practice1\obj\Debug\Construction_practice1.pdb
+C:\Users\dmitr\source\repos\Construction_practice1\obj\Debug\Construction_practice1.csproj.AssemblyReference.cache
+C:\Users\dmitr\source\repos\Construction_practice1\obj\Debug\Construction_practice1.csproj.SuggestedBindingRedirects.cache
+C:\Users\dmitr\source\repos\Construction_practice1\obj\Debug\Construction_practice1.csproj.CoreCompileInputs.cache
+C:\Users\dmitr\source\repos\Construction_practice1\obj\Debug\Construction_practice1.exe
+C:\Users\dmitr\source\repos\Construction_practice1\obj\Debug\Construction_practice1.pdb
+C:\Users\dmitr\source\repos\Construction_practice1\bin\Debug\Construction_practice1.exe.config
+C:\Users\dmitr\source\repos\Construction_practice1\bin\Debug\Construction_practice1.exe
+C:\Users\dmitr\source\repos\Construction_practice1\bin\Debug\Construction_practice1.pdb

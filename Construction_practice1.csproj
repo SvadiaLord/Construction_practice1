@@ -43,10 +43,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="core\ClassAnimal.cs" />
+    <Compile Include="core\ClassBankAccount.cs" />
     <Compile Include="core\ClassBook.cs" />
     <Compile Include="core\ClassCar.cs" />
     <Compile Include="core\ClassCircle.cs" />
+    <Compile Include="core\ClassCource.cs" />
+    <Compile Include="core\ClassEmployee.cs" />
+    <Compile Include="core\ClassMovie.cs" />
     <Compile Include="core\ClassPerson.cs" />
+    <Compile Include="core\ClassProduct.cs" />
     <Compile Include="core\ClassRectangle.cs" />
     <Compile Include="core\ClassStudent.cs" />
     <Compile Include="Program.cs" />
